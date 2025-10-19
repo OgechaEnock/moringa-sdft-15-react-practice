@@ -1,16 +1,14 @@
 {
-    "expenses": [
-        {
-            "id": 1,
-            "expense": "traveling",
-            "Amount": 400000
-
-        },
-        {
-            "id": 2,
-            "expense": "Cooking",
-            "Amount": 20000
-
-        }
-    ]
+  "expenses": [
+    {
+      "id": "1",
+      "expense": "Youtube",
+      "amount": 1200
+    },
+    {
+      "id": "2",
+      "expense": "Transport",
+      "amount": 1000
+    }
+  ]
 }
